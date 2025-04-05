@@ -108,7 +108,3 @@ Contributions are welcome! 🙌
 ## 📄 License
 
 This project is licensed under the **MIT License** 📝
-
----
-
-Let me know if you'd like a version with badges (build, license, etc.), or markdown support for GitHub Pages!
