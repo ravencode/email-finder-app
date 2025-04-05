@@ -1,7 +1,3 @@
-Sure! Here's an enhanced version of the README with emojis to make it more engaging and visually appealing:
-
----
-
 # 📧 Email Finder App
 
 Welcome to the **Email Finder App**! 🕵️‍♂️ This lightweight tool helps you extract email addresses from any public webpage by simply entering a URL. Perfect for researchers, marketers, and digital prospectors! 💼✨
